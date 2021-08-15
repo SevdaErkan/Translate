@@ -1,3 +1,3 @@
 # Translate
 Created with CodeSandbox
-# https://translate-with-hoks.netlify.app/
+# https://translate-with-hooks.netlify.app/
